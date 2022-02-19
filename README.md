@@ -6,7 +6,8 @@ The assignment was to create a password generator that would give a random passw
 
 The criteria's setup were to allow one to choose whether they wanted lowercase, uppercase, numbers or special characters in their randomly generated password. This was completed succesfully and will give you a randomly generated password. 
 
-Please see the deployment link and generate your own password! 
+Please see the deployment link and generate your own password! https://sp381.github.io/A-password-Generator/ 
+GitHub URL: https://github.com/sp381/A-password-Generator 
 
 ![Preview](/generated-password.PNG)
 

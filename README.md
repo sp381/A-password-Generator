@@ -8,3 +8,5 @@ The criteria's setup were to allow one to choose whether they wanted lowercase, 
 
 Please see the deployment link and generate your own password! 
 
+![Preview](/generated-password.PNG)
+
